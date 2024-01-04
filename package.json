@@ -1,0 +1,19 @@
+{
+  "name": "superim",
+  "version": "1.0.0",
+  "description": "Not your regular shopping list app, but a super-app!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guyzion/superim.git"
+  },
+  "author": "Guy Zion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guyzion/superim/issues"
+  },
+  "homepage": "https://github.com/guyzion/superim#readme"
+}
